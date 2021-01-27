@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=NewJFrame
+comment1.params=
+comment1.target=NewJFrame()
+comment10.params=
+comment10.target=void\ run()
+comment2.params=
+comment2.target=void\ initComponents()
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ jButton3ActionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ jButton1ActionPerformed(java.awt.event.ActionEvent)
+comment8.params=evt
+comment8.target=void\ jButton2ActionPerformed(java.awt.event.ActionEvent)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=11

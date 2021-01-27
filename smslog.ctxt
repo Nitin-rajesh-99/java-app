@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=smslog
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=smslog()
+comment3.params=
+comment3.target=void\ userlogin()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ teacherlogin()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7
